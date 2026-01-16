@@ -16,7 +16,7 @@
         </property>
 
         <property name="hibernate.connection.password">
-            shraddha20
+            YOUR_PASSWORD_HERE
         </property>
 
         <property name="hibernate.dialect">
@@ -29,3 +29,4 @@
 
     </session-factory>
 </hibernate-configuration>
+
